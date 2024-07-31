@@ -10,12 +10,13 @@
 </p>
 
 <pre>
-💻 Estoy desarrollando mis habilidades como Desarrollador Frontend | Entusiasta de las nuevas tecnologías
-📚 Tengo una Licenciatura en Ciencias de la Computación y una Maestría en Inteligencia Artificial y Aprendizaje Profundo
-📝 Tengo un gran interés en construir interfaces de usuario Frontend para aplicaciones de aprendizaje automático
-🔭 Trabajando en temas de Shopify y sitios web de React usando Gatsby.js
-🌱 Enfocado en aprender sobre las necesidades del cliente y hacer su vida más fácil
-🌟 Principales lenguajes: Javascript, Python
+💻 Estoy desarrollando mis habilidades como Desarrollador de videojuegos | Entusiasta de las nuevas tecnologías
+📚 Estoy cursando una licenciatura en Ingenieria de Sistemas y cuento con certificaciones en aprendizaje automático y ciencia de datos
+📝 Tengo un gran interés en construir aplicaciones moviles, paginas web, videojuegos 2d y 3d implementando redes neuronales
+🔭 Visionando nuevos proyectos donde pueda fusionar diversos conocimientos y crear productos innovadores
+🌱 Enfocado en aprender sobre las necesidades del cliente y mejorar su estilo de vida.
+🌟 Principales lenguajes: C++,Python
+🌟 Lenguajes complementarios: HTML,CSS,Flutter,Java,SQL
 🚩 Interesado en el desarrollo de aplicaciones Full Stack de aprendizaje automático
 </pre>
 
