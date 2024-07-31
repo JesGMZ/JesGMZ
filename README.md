@@ -51,7 +51,7 @@
 
 
 <div align="center">
-  <h3><b>Let's get in touch! </b></h3>
+  <h3><b>¡Pongámonos en contacto! </b></h3>
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
