@@ -10,13 +10,13 @@
 </p>
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+💻 Estoy desarrollando mis habilidades como Desarrollador Frontend | Entusiasta de las nuevas tecnologías
+📚 Tengo una Licenciatura en Ciencias de la Computación y una Maestría en Inteligencia Artificial y Aprendizaje Profundo
+📝 Tengo un gran interés en construir interfaces de usuario Frontend para aplicaciones de aprendizaje automático
+🔭 Trabajando en temas de Shopify y sitios web de React usando Gatsby.js
+🌱 Enfocado en aprender sobre las necesidades del cliente y hacer su vida más fácil
+🌟 Principales lenguajes: Javascript, Python
+🚩 Interesado en el desarrollo de aplicaciones Full Stack de aprendizaje automático
 </pre>
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
