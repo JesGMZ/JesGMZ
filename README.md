@@ -1,4 +1,5 @@
-<h1 align="center"> Hola a todos 👋, soy Jesús Miguel Gil Zárate</h1>
+<h1 align="center"> Hola a todos 👋, soy Vataridevs</h1>
+<h2 align="center"> Jesús Miguel Gil Zárate</h2>
 
 <a target="_blank" href=""><img src="https://github.com/JesGMZ/JesGMZ/blob/main/banner_vataridevs.jpg"/></a>
 
